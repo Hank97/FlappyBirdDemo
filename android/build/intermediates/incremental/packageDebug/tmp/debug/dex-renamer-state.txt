@@ -1,4 +1,7 @@
-#Sat Jun 30 12:25:27 EEST 2018
-base.0=/home/misha/AndroidStudioProjects/PortfolioFlappyBird/android/build/intermediates/transforms/dexMerger/debug/29
+#Sat Jun 30 12:59:22 EEST 2018
+base.0=/home/misha/AndroidStudioProjects/portfolioflappybirdgame/android/build/intermediates/transforms/dexMerger/debug/11
+path.1=classes.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=/home/misha/AndroidStudioProjects/portfolioflappybirdgame/android/build/intermediates/transforms/dexMerger/debug/12

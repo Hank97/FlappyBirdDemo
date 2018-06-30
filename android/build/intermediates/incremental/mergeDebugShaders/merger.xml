@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/misha/AndroidStudioProjects/PortfolioFlappyBird/android/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/misha/AndroidStudioProjects/PortfolioFlappyBird/android/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/misha/AndroidStudioProjects/portfolioflappybirdgame/android/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/misha/AndroidStudioProjects/portfolioflappybirdgame/android/src/debug/shaders"/></dataSet></merger>

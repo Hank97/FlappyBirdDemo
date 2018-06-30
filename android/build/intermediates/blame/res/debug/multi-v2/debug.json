@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/misha/AndroidStudioProjects/PortfolioFlappyBird/android/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "outputFile": "/home/misha/AndroidStudioProjects/portfolioflappybirdgame/android/build/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/misha/AndroidStudioProjects/PortfolioFlappyBird/android/res/values/styles.xml",
+                    "source": "/home/misha/AndroidStudioProjects/portfolioflappybirdgame/android/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/misha/AndroidStudioProjects/PortfolioFlappyBird/android/res/values/strings.xml",
+                    "source": "/home/misha/AndroidStudioProjects/portfolioflappybirdgame/android/res/values/strings.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
